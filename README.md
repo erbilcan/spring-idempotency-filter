@@ -10,7 +10,6 @@ Idempotent Request Filter for Spring Boot is a library that helps solve the idem
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ### Problem Statement
 
@@ -119,9 +118,3 @@ X-Idempotency-Key: abcdefg1234xyz
 ```
 
 If a request with the same Idempotency-Key is received within the specified time frame, a 429 Too Many Requests response will be returned.
-
-## Contribution 
-
-I appreciate contributions! Feel free to contribute to the project by opening issues or submitting pull requests.
-
-Thank you for considering contributing to this project!
