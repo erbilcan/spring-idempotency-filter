@@ -5,6 +5,7 @@ spring-idempotency-filter for Spring Boot is a library that helps solve the idem
 ## Table of Contents
 
 - [Introduction](#spring-idempotency-filter)
+- [Problem Statement](#problem-statement)
 - [Features](#features)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
