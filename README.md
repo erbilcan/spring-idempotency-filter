@@ -1,10 +1,10 @@
 # spring-idempotency-filter
 
-Idempotent Request Filter for Spring Boot is a library that helps solve the idempotency problem in distributed systems by utilizing the idempotency request header and a distributed caching mechanism (e.g., Hazelcast) through Spring Caching Abstraction.
+spring-idempotency-filter for Spring Boot is a library that helps solve the idempotency problem in distributed systems by utilizing the idempotency request header and a distributed caching mechanism (e.g., Hazelcast) through Spring Caching Abstraction.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#spring-idempotency-filter)
 - [Features](#features)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
