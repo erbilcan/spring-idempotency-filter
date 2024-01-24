@@ -73,11 +73,11 @@ For example, you can use Hazelcast as a caching provider by creating a **hazelca
 hazelcast:
   map:
     idempotency:
-      time-to-live-seconds: 120
+      time-to-live-seconds: 5
 ```
 
 Here we have created a map called __idempotency__, which we will also need to specify in the application properties.
-The entries we put into this map will be stored for 2 minutes.
+The entries we put into this map will be stored for 5 seconds.
 
 ### 2. Enable configurations in your Spring Boot Application:
 
